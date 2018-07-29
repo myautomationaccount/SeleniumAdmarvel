@@ -1,2 +1,2 @@
-# SeleniumAdmarvel
+# SeleniumLearning
 Selenium
